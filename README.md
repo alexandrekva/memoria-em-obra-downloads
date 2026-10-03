@@ -1,6 +1,6 @@
 # Memória em Obra — downloads de teste
 
-Página privada de pacotes e baralhos para testar o add-on no Anki.
+Página pública de pacotes e baralhos para testar o add-on no Anki.
 
 [Baixar pacote corrigido e 30 questões de teste](https://github.com/alexandrekva/memoria-em-obra-downloads/releases/tag/2026.10.03.17)
 
